@@ -1,0 +1,23 @@
+{
+  "name": "msgbin",
+  "author": "UNLOQ Systems",
+  "version": "0.1.0",
+  "dependencies": {
+  },
+  "description": "Binary-encoded messages, optimised for speed and size",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quty-io/msgbin"
+  },
+  "homepage": "https://quty.io",
+  "bugs": {
+    "url": "https://github.com/quty-io/msg-bin/issues"
+  },
+  "engines": {
+    "node": ">8.x"
+  },
+  "optionalDependencies": {
+  }
+}
